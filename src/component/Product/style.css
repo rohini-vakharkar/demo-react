@@ -1,0 +1,15 @@
+*{
+    margin-left: 10%;
+}
+
+
+
+.product-con{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 100px;
+}
+.inner-container{
+    margin-left: -40px;
+}
